@@ -1,1 +1,8 @@
+Use Ubuntu 18.04
+Node v10.24.1
+Install or reinstall Redis-Server
+
 https://mega.nz/file/xidmBKrD#8HZs_2zPyTUl0J-l9mU1101nxddYvKXsk8cDnQzb0wI
+
+Follow instructions from knomp repo cloned from SpaceWorksCo.
+Do not run "npm install" it will override node_modules
